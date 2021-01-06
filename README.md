@@ -32,6 +32,6 @@ THEN the password is either displayed in an alert or written to the page
 ![password output](Assets/output.png)
 
 Deployed Link https://justinkvang.github.io/Password-Generator-/ 
-Repository Link https://github.com/justinkvang/Password-Generator-
+Repository Link https://github.com/justinkvang/PW-Generator
 # PW-Generator
 # PW-Generator
